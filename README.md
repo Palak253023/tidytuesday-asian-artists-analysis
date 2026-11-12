@@ -32,17 +32,12 @@ tidytuesday-asian-artists-analysis/
 │   ├── Other_charts.R
 │   └── Polar_Chart.R
 │
-├── Data/
-│   └── README.md
-│
 ├── Output/
 │   ├── asian_artist_analysis.png
 │   └── polar_stacked_chart.png
 │
 ├── README.md
-├── requirements.txt
-├── .gitignore
-└── LICENSE
+└── requirements.txt
 ```
 
 ## Visualizations
