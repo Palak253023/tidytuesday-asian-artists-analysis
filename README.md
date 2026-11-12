@@ -119,10 +119,8 @@ https://github.com/rfordatascience/tidytuesday
 
 ## Limitations
 
-- The analysis is based on the occupations and estimates available in the source dataset.
-- The six art-expression categories are groupings created for this project; they are not necessarily official classifications used by the dataset publisher.
-- Results depend on the source data and the occupation-to-category mapping in the R scripts.
-- The charts describe the selected dataset and should not be treated as a complete representation of every Asian artist in the United States.
+- The analysis is based on the occupations and estimates available in the source dataset. The charts describe the selected dataset and should not be treated as a complete representation of every Asian artist in the United States.
+- The six art-expression categories are mere groupings created for this project; they are not necessarily official classifications used by the dataset publisher.
 
 ## Reproducibility
 
@@ -130,4 +128,4 @@ The source R scripts, package list and generated visualizations are included in 
 
 ---
 
-*Created as an R data analysis and visualization project using the TidyTuesday Artists in the Workforce dataset (Week 39, 2022).*
+*Created as an R data analysis and visualization project*
