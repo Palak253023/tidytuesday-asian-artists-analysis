@@ -1,0 +1,13 @@
+# R package dependencies for Asian Artists in the USA
+# Install these packages in R with:
+# install.packages(readLines("requirements.txt", comment.char = "#"))
+
+tidyverse
+MetBrewer
+showtext
+sysfonts
+gridExtra
+scales
+ggtext
+geomtextpath
+showtextdb
